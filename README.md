@@ -11,7 +11,7 @@ A calculadora pode realizar operações matemáticas básicas, como adição, su
 * Testei o código localmente usando o Postman
 * Implantei no ambiente sem servidor do Azure Functions
 
-## Requisitos Mínimos de Instalação
+## Ferramentas Utilizadas
 
 * Conta do Azure com uma assinatura ativa
 * [Azure Functions Core Tools](https://github.com/Azure/azure-functions-core-tools), versão local do Azure Functions, fornece comandos para criar funções, se conectar ao Azure e implantar projetos de função
@@ -19,7 +19,9 @@ A calculadora pode realizar operações matemáticas básicas, como adição, su
 * [Visual Studio Code](https://code.visualstudio.com/), editor de código
 * [Postman](https://www.postman.com/), ferramenta com a função de testar e desenvolver APIs
 
+## Requisitos Mínimos de Instalação
 
+Python (versão 3.6 ou superior)
 
 ## Implantação
 
