@@ -1,7 +1,11 @@
-## Calculadora usando Python hospedada no AZURE FUNCTIONS
-<br>
+# Calculadora usando Python hospedada no AZURE FUNCTIONS
 
-* Nesse projeto desenvolvi uma **calculadora** usando Python hospedada no [Azure Functions](https://learn.microsoft.com/pt-br/azure/azure-functions/functions-overview)
+Neste projeto, desenvolvi uma **calculadora**  usando Python e a hospedei no [Azure Functions](https://learn.microsoft.com/pt-br/azure/azure-functions/functions-overview).
+
+## Visão Geral
+
+A calculadora pode realizar operações matemáticas básicas, como adição, subtração, multiplicação e divisão. O objetivo deste projeto é demonstrar como criar e hospedar uma função Python no Azure Functions.
+
 ### Passos seguidos: 
 * Usei o Visual Studio Code para criar a função em Python
 * Testei o código localmente usando o Postman
@@ -17,10 +21,15 @@
 
 
 
-## Resultado
+## Implantação
 
-* Hospedado no Azure Function: https://calculadora-python.azurewebsites.net/api/Calculadora
+- Hospedado no Azure Function: [https://calculadora-python.azurewebsites.net/api/Calculadora](https://calculadora-python.azurewebsites.net/api/Calculadora).
 
+## Testando a Calculadora
+
+Você pode testar a calculadora usando o Postman ou qualquer outra ferramenta de sua preferência. Basta fazer uma solicitação POST para o endpoint fornecido e passar os dados da operação que deseja realizar no corpo da solicitação.
+
+  
 * Testado no Postman:
 <br>
 
